@@ -1,0 +1,26 @@
+.contain::-webkit-scrollbar {
+  display: none;
+}
+ 
+.contain {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  padding: .3em 0px;
+}
+ 
+.nf-slide-padding {
+  padding: .3em;
+}
+ 
+.nf-slide-padding:first-of-type {
+  padding-left: 0px;
+}
+ 
+.nf-slide-padding:last-of-type {
+  padding-right: 0px;
+}
+ 
+.nf-slide-wrapper {
+  min-width: 145px;
+}

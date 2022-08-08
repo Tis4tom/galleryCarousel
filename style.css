@@ -1,3 +1,17 @@
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.container-fluid {
+    max-width: 900px;
+}
+
 .contain::-webkit-scrollbar {
   display: none;
 }
@@ -22,5 +36,6 @@
 }
  
 .nf-slide-wrapper {
-  min-width: 145px;
+  min-width: 200px;
 }
+

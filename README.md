@@ -1,0 +1,1 @@
+This is a frankenstein's monster combining a tab gallery inspired by Nintendo's product pages and the Netflix horizontal scrolling carousels. Designed for a marketing team to use as an alternative to more traditional gallery or carousel options.

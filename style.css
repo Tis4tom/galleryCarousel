@@ -31,9 +31,15 @@ h1 {
   padding: 0px;
   
 }
+
+#tab-gallery-wrapper {
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
  
 .nf-slide-padding {
-  padding: .3em;
+  padding: .3em .15em;
 }
  
 .nf-slide-padding:first-of-type {
@@ -45,6 +51,6 @@ h1 {
 }
  
 .nf-slide-wrapper {
-  min-width: 200px;
+  min-width: 220px;
 }
 
